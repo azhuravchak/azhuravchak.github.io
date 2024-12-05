@@ -13,5 +13,5 @@ details:
   role: Teaching Assistant
   responsibilities: 
     - Creation of subject materials
-    - Administrating Google Cloud Skills Boost Platform (over 30 students)
+    - Administrating Google Cloud Skills Boost Platform (over 300 students)
 ---
