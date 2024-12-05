@@ -46,12 +46,12 @@
   "education": [
     {
       "institution": "Lviv Polytechnic National University",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "location": "Lviv, Ukraine",
+      "url": "https://lpnu.ua/en",
+      "area": "Cybersecurity",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2024-09-01",
+      "endDate": "2028-06-01",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
