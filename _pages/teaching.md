@@ -4,9 +4,8 @@ permalink: /teaching/
 title: teaching
 nav: true
 nav_order: 6
-teaching:
-  - university: Lviv Polytechnic National University
-    year: 2024
+university: Lviv Polytechnic National University
+year: 2024
     duration: 6 months
     department: Information Security
     subject: Incident Response
