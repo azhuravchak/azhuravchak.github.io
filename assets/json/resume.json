@@ -15,6 +15,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
+        "username": "anastasiia-tolkachova",
         "url": "https://www.linkedin.com/in/anastasiia-tolkachova-400834175/"
       }
     ]
@@ -25,8 +26,8 @@
       "position": "Lead Security Testing Engineer",
       "url": "https://www.epam.com/",
       "startDate": "2022-01-01",
-      "endDate": "2025-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "endDate": null,
+      "summary": "Leading security testing initiatives, conducting penetration tests, and mentoring junior engineers.",
       "highlights": ["Relativity"]
     }
   ],
