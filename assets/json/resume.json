@@ -3,16 +3,14 @@
     "name": "Anastasiia Zhuravchak",
     "label": "Penetration Testing, Phd student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "zhuravchak.anastasiia@gmail.com",
+    "phone": "+38(063)-286-0975",
+    "url": "https://azhuravchak.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Kyiv, Lviv",
+      "countryCode": "UA",
+      "region": "Kyiv"
     },
     "profiles": [
       {
@@ -47,7 +45,7 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Lviv Polytechnic National University",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
