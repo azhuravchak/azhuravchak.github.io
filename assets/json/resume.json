@@ -59,44 +59,44 @@
   
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Offensive Security Certified Professional (OSCP)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Offensive Security",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Offensive Security Web Assessor (OSWA)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Offensive Security",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
+      "name": "Offensive Security Web Expert (OSWE)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Offensive Security",
       "url": "https://example.com",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
+      "name": "Web Application Penetration Tester eXtreme (eWPTX)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "eLearnSecurity",
       "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
+      "name": "eLearnSecurity Penetration Testing Professional (ePTP)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "eLearnSecurity",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "Junior Penetration Tester (eJPT)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "eLearnSecurity",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
