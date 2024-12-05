@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Anastasiia Zhuravchak
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19th March 2000
     - name: Languages
-      value: English, German
+      value: English, Ukrainian
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Lviv Polytechnic National University, Lviv, Ukraine
+      year: 2024
       description:
         - Description 1.
         - Description 2.
