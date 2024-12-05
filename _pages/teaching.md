@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Department of Information Security
 nav: true
 nav_order: 6
+teaching:
+  - university: Lviv Polytechnic National University
+    year: 2024
+    duration: 6 months
+    department: Information Security
+    subject: Incident Response
+    role: Teaching Assistant
+    Responsibilities: Creation subject materials, Administrating Google Cloud Skills Boost Platform (over 300 participants)
 ---
-
-Lviv Polytechnic National University
-2024 - 6 months
-Department: Information Security
-Subject: Incident Response 
