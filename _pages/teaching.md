@@ -11,5 +11,5 @@ teaching:
     department: Information Security
     subject: Incident Response
     role: Teaching Assistant
-    Responsibilities: Creation subject materials, Administrating Google Cloud Skills Boost Platform (over 300 participants)
+    responsibilities: Creation subject materials, Administrating Google Cloud Skills Boost Platform (over 300 participants)
 ---
