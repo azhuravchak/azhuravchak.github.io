@@ -16,11 +16,10 @@ details:
     - Administrating Google Cloud Skills Boost Platform (over 300 students)
 ---
 
-# Teaching Overview
-
 I am currently a **Teaching Assistant** at **Lviv Polytechnic National University** for the subject **Incident Response** in the **Department of Information Security**. My responsibilities include:
 
-- Creation of subject materials.
+- Creation of subject materials
+- Checking student laboratory work and assigning grades
 - Administrating the Google Cloud Skills Boost Platform for over 300 students.
 
-This is a 6-month role starting in 2024.
+This is a 9-month role starting in 2024.
