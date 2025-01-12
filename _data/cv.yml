@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Anastasiia Zhuravchak
-    - name: Date of Birth
-      value: 19th March 2000
     - name: Languages
       value: English, Ukrainian
 
@@ -32,12 +30,10 @@
       institution: Information Security Department, Lviv Polytechnic National University
       year: 2024 - untill now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Taught the course “Incident Response” for one semester.
+        - Supervised a group of 18 students.
+        - Conducted laboratory sessions focused on practical skills and hands-on learning
+        
     - title: Phd student
       institution: Information Security Department, Lviv Polytechnic National University
       year: 2024 - untill now
