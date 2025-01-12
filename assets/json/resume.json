@@ -33,14 +33,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Ukraine",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "e-Kids Ukraine",
+      "location": "Lviv, Ukraine",
+      "position": "Coordinator",
+      "url": "https://careers.epam.hu/education/ekids",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "summary": "For the past two years, I have been actively involved as a coordinator and cybersecurity trainer for EPAM’s e-KIDS volunteer program in Ukraine. This initiative brings together over 250 volunteers with the goal of inspiring children aged 7-16 to explore technology through interactive learning, hands-on challenges, and mentorship. Last year alone, we engaged over 1300 children, including orphans, children with disabilities, and internally displaced children. As part of the e-KIDS Org Team, I took on the responsibility of coordinating activities and designing engaging cybersecurity lectures—the first of their kind in the program’s nine-year history. I also collaborated with other proactive professionals to deliver these lectures both within and beyond the program’s scope. My focus has always been on creating meaningful, interactive content tailored to children’s needs, ensuring they benefit from every session. This role has been deeply fulfilling, allowing me to share my expertise and make a positive impact on young learners.",
     }
   ],
   "education": [
