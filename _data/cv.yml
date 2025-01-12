@@ -22,11 +22,8 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Master's Degree
-      institution: Lviv Polytechnic National University, Lviv, Ukraine
-      year: 2024
-      description:
-        - Description 1.
-        - Description 2.
+       institution: Lviv Polytechnic National University, Lviv, Ukraine
+       year: 2024
      - title: Bachelor's Degree
        institution: State University of Telecommunications
        year: 2021
