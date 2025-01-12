@@ -14,19 +14,15 @@
     - title: PhD
       institution: Lviv Polytechnic National University, Lviv, Ukraine
       year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      description: Cybersecurity
     - title: Master's Degree
-       institution: Lviv Polytechnic National University, Lviv, Ukraine
-       year: 2024
-     - title: Bachelor's Degree
-       institution: State University of Telecommunications
-       year: 2021
+      institution: Lviv Polytechnic National University, Lviv, Ukraine
+      year: 2024
+      description: Cybersecurity
+    - title: Bachelor's Degree
+      institution: State University of Telecommunications
+      year: 2021
+      description: Cybersecurity
         
 
 - title: Experience
