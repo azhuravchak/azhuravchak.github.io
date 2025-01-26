@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Lead Penetration Tester, Phd Student
+subtitle:  Lead Penetration Tester, PhD Student
 
 profile:
   align: right
